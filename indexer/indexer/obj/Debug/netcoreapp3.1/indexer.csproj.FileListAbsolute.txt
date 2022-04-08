@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.exe
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.deps.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.runtimeconfig.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.dll
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.pdb
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfo.cs
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.dll
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.pdb
+C:\Users\emil code\Desktop\CollectionsHomeTask\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.genruntimeconfig.cache
